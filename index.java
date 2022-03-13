@@ -1,5 +1,5 @@
 class index {
- public static void main(Sting[] args) {
-     
+ public static void main(String[] args) {
+
  }
 }
